@@ -4,8 +4,8 @@ package main
 import (
 	"os"
 
-	"kubefixtures/cmd/load"
-	"kubefixtures/cmd/transition"
+	"github.com/RealHarshThakur/kubefixtures/cmd/load"
+	"github.com/RealHarshThakur/kubefixtures/cmd/transition"
 
 	"github.com/spf13/cobra"
 )

@@ -14,7 +14,7 @@ import (
 	"k8s.io/apimachinery/pkg/util/yaml"
 	"k8s.io/client-go/dynamic"
 
-	"kubefixtures/pkg"
+	"github.com/RealHarshThakur/kubefixtures/pkg"
 )
 
 var (

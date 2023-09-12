@@ -5,8 +5,9 @@ import (
 	"context"
 	"io"
 	"io/ioutil"
-	"kubefixtures/pkg"
 	"os"
+
+	"github.com/RealHarshThakur/kubefixtures/pkg"
 
 	"github.com/spf13/cobra"
 	"k8s.io/apimachinery/pkg/apis/meta/v1/unstructured"

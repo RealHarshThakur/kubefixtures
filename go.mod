@@ -1,4 +1,4 @@
-module kubefixtures
+module github.com/RealHarshThakur/kubefixtures
 
 go 1.19
 
